@@ -8,4 +8,5 @@ Liste des pré-requis pour bosser sur le projet :
 - avoir l'envie
 
 Liste des commandes principales une fois que tu as pris un fork du projet et téléchargé chez toi via git.  :
-- 
+-
+c'est un test
